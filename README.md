@@ -14,7 +14,19 @@ This is the source code for my personal portfolio website, showcasing my skills,
 - **Backend (if applicable)**: Express.js (for handling dynamic content)
 - **Hosting**: Deployed on [GitHub Pages / Vercel / Netlify] (choose one if applicable)
 
-
+## Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ajay6542prajapati/portfolio-web.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd portfolio-web
+   ```
+3. Open `index.html` in your browser or serve it using a local server for better performance:
+   ```bash
+   npx live-server
+   ```
 
 ## Future Enhancements
 - Add a blog section to share insights and experiences.
